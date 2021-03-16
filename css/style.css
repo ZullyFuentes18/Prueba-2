@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@500&display=swap');
+
+body{
+font-family: 'Catamaran', sans-serif;		
+}
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+}
+header{
+	background-color: #fff;
+}
+
+
+#top-header{
+	background-image: url("../img/bg-services-title.jpg");
+	background-position: center;
+	background-size: cover;
+	padding: 150px 0;
+	text-align: center;
+	color: #fff;
+	
+}
+
+
+
+footer{
+	background-color: var(--fondo-footer);
+	color: var(--color-footer);
+	padding: 20px 0;
+	text-align: center;
+	font-size: 13px;
+}
+
+#see p{
+	text-align: center;
+	color:#282d33;
+	padding-bottom: 6%;
+	
+}
+
+#see h6{
+	text-align: center;
+	padding: 20px;
+	color: #282d33;
+}
+
+#see h3{
+	text-align:center;
+	color: #282d33;
+	padding: 20px;
+	
+}
+
+#see{
+	background-color:  #f7f7f7;
+	padding: 70px;
+}
+
+#services{
+	text-align: center; 
+	padding: 50px 0;
+	color: #e0e0e0;
+
+}
+#services h4{
+	
+	color: #282d33;
+	padding: 20px;
+}
+
+#services p{
+	color:  #282d33;
+}
+.fa-check {
+      color:#53c3c9;
+    }
+.fa-tablet-alt{
+	color:#e0e0e0;
+}
+
+.fa-cloud-download-alt{
+	color:#e0e0e0;
+}
+
+.fa-envelope-open-text{
+	color:#e0e0e0;
+}
